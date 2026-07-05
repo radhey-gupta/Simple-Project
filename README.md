@@ -1,13 +1,15 @@
-# Simple-Project
-A simple Node.js project with a Vercel serverless API route.
+# Simple Node.js Hello World
+
+This repository contains a minimal Node.js Hello World project with optional Vercel deployment support.
 
 ## Run locally
 
 ```bash
+npm install
 npm start
 ```
 
-Open `http://localhost:3000` to see the local server response.
+Then open `http://localhost:3000`.
 
 ## Vercel deployment
 

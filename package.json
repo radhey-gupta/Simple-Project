@@ -1,7 +1,7 @@
 {
   "name": "simple-project",
   "version": "1.0.0",
-  "description": "Simple Node.js Hello World project for Vercel deployment",
+  "description": "Simple Node.js Hello World project with Vercel deployment support",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
