@@ -1,0 +1,13 @@
+{
+  "name": "simple-project-hello-world",
+  "version": "1.0.0",
+  "description": "A minimal Node.js Hello World project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"No tests specified\" && exit 0"
+  },
+  "keywords": ["hello", "node", "example"],
+  "author": "radhey-gupta",
+  "license": "MIT"
+}
